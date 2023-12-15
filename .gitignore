@@ -2,3 +2,7 @@
 backend/economius/src/.DS_Store
 frontend/economius/.env
 frontend/economius/src/.env
+exec/sql/.gitkeep
+exec/.DS_Store
+.DS_Store
+exec/.gitkeep
